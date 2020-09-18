@@ -22,7 +22,7 @@ h1,h2,h3,h4,h5,h6 {
 .ticketBooth {
     margin-bottom: 1rem;
     display: flex;
-    justify-content: space-around;   
+    justify-content: left;   
 }
 .attractions {
     display: flex;
